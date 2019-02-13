@@ -36,7 +36,7 @@ I want to highlight the product listing view when whe choose one of the availabl
   - **Use card-like box for product information** \
     By using card-like box, EnterKomputer can attach the image of the products. So that, user can easily see what the product looks like without leaving the website.
 ### 1.3 Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T9_JRxuchdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![test enterkomputer-website](http://img.youtube.com/vi/T9_JRxuchdQ/0.jpg)](http://www.youtube.com/watch?v=T9_JRxuchdQ "Test EnterKomputer Website")
 
 ## 2. itsDaring Website
 #### [Back to Table of Contents](#table-of-contents-) <!-- omit in toc -->
@@ -59,7 +59,7 @@ Here, I want to highlight the sign up feature.
 - **Tidy up and add required attribute in sign up form inputs** \
   Recheck the font size of form labels. So that, they all have same size. Then, add `required` attribute to relevant input to help user know that the field is required. We can also add a red star "*" next to form label to mark required field.
 ### 2.3 Video
-Coming soon
+[![test-itsdaring-website](http://img.youtube.com/vi/T9_JRxuchdQ/0.jpg)](http://www.youtube.com/watch?v=T9_JRxuchdQ "Test itsDaringWebsite")
 ## 3. Department of Informatics ITS Website
 [**its.ac.id/informatika**](https://www.its.ac.id/informatika) is the new website for Department of Informatics ITS. It follow new design that is applied to myITS website. The homepage looks like image below.
 ![informatics-homepage](img/informatics_homepage.png)

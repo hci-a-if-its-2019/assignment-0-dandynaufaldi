@@ -17,7 +17,6 @@ Class : A
   - [3.1 Bad UI Aspects](#31-bad-ui-aspects)
   - [3.2 Suggestions](#32-suggestions)
   - [3.3 Video](#33-video)
-
 ## 1. EnterKomputer Website
 #### [Back to Table of Contents](#table-of-contents----omit-in-toc) <!-- omit in toc -->
 [**enterkomputer.com**](enterkomputer.com) is a website owned by *EnterKomputer*, a computer parts store, which is used for their online shopping platform. The homepage looks like the picture below
@@ -46,11 +45,26 @@ Coming soon
 
 ## 2. itsDaring Website
 #### [Back to Table of Contents](#table-of-contents----omit-in-toc) <!-- omit in toc -->
-[**itsdaring.id**](itsdaring.id) is an online course platform made by PT ITS Tekno Sains to facilitate e-learning in various department. 
+[**itsdaring.id**](itsdaring.id) is an online course platform made by PT ITS Tekno Sains to facilitate e-learning in various department. Using this website, lecturer and students can easily set up an online class, where they can share teaching matherials and giving assignment. The homepage look like the image below.
+![itsdaring-homepage](img/itsdaring_homepage.png)
+Here, I want to highlight the sign up feature.
 ### 2.1 Bad UI Aspects
-### 2.2 Suggestions
-### 2.3 Video
+- **Location of button to access sign up page** <br>
+  From  homepage view like in the above image, can you figure out how you can sign up? There is no button or hyperlink with `sign up` written on it. Actually, to access sign up page you have to click on the "Login" button first. It will redirect you to a login page. Then, you will see a button redirecting to sig up page.
+  ![itsdaring-signup](img/itsdaring_signup.gif)
 
+- **Untidy and unintuitive sign up form** <br>
+  Following the first bad UI aspect, the sign up form is **untidy** and **unintuitive**.
+  ![itsdaring-signup-page](img/itsdaring_signup_page.png)
+  We can see that the labels for form input have different size. Also, there is no password confirmation which may help us from misstyping (*typo*) our password. All of the required field has no direct html validation (using `required` attribute) that make user to submit the form first to get the error message.
+  
+### 2.2 Suggestions
+- **Add "Signup" text next to "Login" text** <br>
+  Adding simple text as "Signup" into the login button will instantly tell user that they can access signup page from that button
+- **Tidy up and add required attribute in sign up form inputs** <br>
+  Recheck the font size of form labels. So that, they all have same size. Then, add `required` attribute to relevant input to help user know that the field is required. We can also add a red star "*" next to form label to mark required field.
+### 2.3 Video
+Coming soon
 ## 3. Department of Informatics ITS Website
 #### [Back to Table of Contents](#table-of-contents----omit-in-toc) <!-- omit in toc -->
 ### 3.1 Bad UI Aspects

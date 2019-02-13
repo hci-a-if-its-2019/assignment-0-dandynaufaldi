@@ -18,7 +18,7 @@ Class : A
   - [3.2 Suggestions](#32-suggestions)
   - [3.3 Video](#33-video)
 ## 1. EnterKomputer Website
-#### [Back to Table of Contents](#table-of-contents----omit-in-toc) <!-- omit in toc -->
+#### [Back to Table of Contents](#table-of-contents-) <!-- omit in toc -->
 [**enterkomputer.com**](enterkomputer.com) is a website owned by *EnterKomputer*, a computer parts store, which is used for their online shopping platform. The homepage looks like the picture below
 <br>
 ![enterkomp-homepage](img/enterkomp_homepage.png)
@@ -44,7 +44,7 @@ I want to highlight the product listing view when whe choose one of the availabl
 Coming soon
 
 ## 2. itsDaring Website
-#### [Back to Table of Contents](#table-of-contents----omit-in-toc) <!-- omit in toc -->
+#### [Back to Table of Contents](#table-of-contents-) <!-- omit in toc -->
 [**itsdaring.id**](itsdaring.id) is an online course platform made by PT ITS Tekno Sains to facilitate e-learning in various department. Using this website, lecturer and students can easily set up an online class, where they can share teaching matherials and giving assignment. The homepage look like the image below.
 ![itsdaring-homepage](img/itsdaring_homepage.png)
 Here, I want to highlight the sign up feature.
@@ -66,7 +66,7 @@ Here, I want to highlight the sign up feature.
 ### 2.3 Video
 Coming soon
 ## 3. Department of Informatics ITS Website
-#### [Back to Table of Contents](#table-of-contents----omit-in-toc) <!-- omit in toc -->
+#### [Back to Table of Contents](#table-of-contents-) <!-- omit in toc -->
 ### 3.1 Bad UI Aspects
 ### 3.2 Suggestions
 ### 3.3 Video

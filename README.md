@@ -77,3 +77,6 @@ Here, I want to highlight the section which show the curriculum and syllabus for
   As the document is intended to be public, we can host it in dedicated document sharing website like [SlideShare](https://www.slideshare.net/). So that, we will get **scroll** and **search**  feature automatically. Then, we just need to embed the document viewer.
 ### 3.3 Video
 [![test-department-of-informatics-website](http://img.youtube.com/vi/xhHbUoTZO1Q/0.jpg)](http://www.youtube.com/watch?v=xhHbUoTZO1Q "Test Department of Informatics Website")
+
+# Thanks to
+[Titut](https://github.com/yolandahp) and [Randi](https://github.com/Rahandi)
